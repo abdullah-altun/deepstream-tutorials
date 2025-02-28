@@ -175,7 +175,6 @@ Aşağıdaki testlerde yine **float16** hassasiyeti ve **640x640** giriş boyutu
 ## Kaynaklar
 
 - [NVIDIA DeepStream Dokümantasyonu](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)  
-- [Ultralytics YOLOv8 Dokümantasyonu](https://docs.ultralytics.com/)  
 - [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)  
 - [GStreamer Resmi Sitesi](https://gstreamer.freedesktop.org/)
 
